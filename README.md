@@ -1,2 +1,2 @@
 # zzxdyfcc
-A C99 compiler which uses C++11.
+A C11 _compiler_ in C++11.
